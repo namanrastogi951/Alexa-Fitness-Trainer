@@ -4,9 +4,9 @@ This is an Alexa based fitness Trainer which will help you maintain your health 
 
 ## Project Link
 
-'''
+```bash
 https://skills-store.amazon.in/deeplink/dp/B087249LFZ?deviceType=app&share&refSuffix=ss_copy
-'''
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
