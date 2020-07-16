@@ -1,0 +1,195 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "fitness trainer",
+            "modelConfiguration": {
+                "fallbackIntentSensitivity": {
+                    "level": "LOW"
+                }
+            },
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MeditationIntent",
+                    "slots": [],
+                    "samples": [
+                        "begin meditation",
+                        "meditation",
+                        "start meditation",
+                        "i choose meditation"
+                    ]
+                },
+                {
+                    "name": "SuryaNamaskarIntent",
+                    "slots": [],
+                    "samples": [
+                        "start surya namaskar",
+                        "surya namaskar exercises",
+                        "what are the surya namaskar exercises",
+                        "begin surya namaskar"
+                    ]
+                },
+                {
+                    "name": "WarmupIntent",
+                    "slots": [],
+                    "samples": [
+                        "i choose warmup",
+                        "begin warmup exercises",
+                        "warmup exercises",
+                        "which warmup exercises are there",
+                        "i want to warmup ",
+                        "start warmup exercises"
+                    ]
+                },
+                {
+                    "name": "AbsWorkoutIntent",
+                    "slots": [],
+                    "samples": [
+                        "abs workout",
+                        "what are the exercises in abs workout",
+                        "start Abs workout"
+                    ]
+                },
+                {
+                    "name": "CardioWorkoutIntent",
+                    "slots": [],
+                    "samples": [
+                        "how to do cardio exercises",
+                        "what are the exercises in cardio workout",
+                        "begin my cardio workout",
+                        "cardio workout",
+                        "start cardio workout"
+                    ]
+                },
+                {
+                    "name": "MuscleWorkoutIntent",
+                    "slots": [],
+                    "samples": [
+                        "begin muscle workout",
+                        "what are the exercises in muscle workout",
+                        "muscle workout",
+                        "start muscle workout"
+                    ]
+                },
+                {
+                    "name": "StrengthWorkoutIntent",
+                    "slots": [],
+                    "samples": [
+                        "begin strength workout",
+                        "what are the exercises in strength workout",
+                        "start strength workout",
+                        "strength workout"
+                    ]
+                },
+                {
+                    "name": "DietIntent",
+                    "slots": [],
+                    "samples": [
+                        "dieting",
+                        "what can i have for dieting",
+                        "plan my Diet",
+                        "suggest my Diet"
+                    ]
+                },
+                {
+                    "name": "ShowLeaderBoardIntent",
+                    "slots": [],
+                    "samples": [
+                        "show leaderboards",
+                        "leaderboard",
+                        "leader board",
+                        "show leaderboard",
+                        "show leader board",
+                        "show me my ranking",
+                        "show me my leaderboard",
+                        "show me my leader board"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ShuffleOnIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetMyScoreIntent",
+                    "slots": [],
+                    "samples": [
+                        "get my score",
+                        "tell me my score"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
